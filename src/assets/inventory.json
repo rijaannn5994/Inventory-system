@@ -1,0 +1,3494 @@
+[{
+  "_id": {
+    "$oid": "69aebba78376556264e3302f"
+  },
+  "item_id": "INV-0001",
+  "item_name": "Corporate IT Equipment Product 1",
+  "category": "IT Equipment",
+  "quantity_in_stock": 165,
+  "reorder_level": 18,
+  "supplier_id": "SUP-081",
+  "unit_price": 164.55,
+  "last_updated": "2026-02-12T17:05:51.558005Z",
+  "specifications": {
+    "weight_kg": 4.68,
+    "dimensions_cm": {
+      "length": 135,
+      "width": 68,
+      "height": 2
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-21T17:05:51.558200Z",
+      "quantity_added": 69
+    },
+    {
+      "date": "2026-01-14T17:05:51.558213Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33030"
+  },
+  "item_id": "INV-0002",
+  "item_name": "Corporate Furniture Product 2",
+  "category": "Furniture",
+  "quantity_in_stock": 42,
+  "reorder_level": 31,
+  "supplier_id": "Unassigned",
+  "unit_price": 146.49,
+  "last_updated": "2026-01-27T17:05:51.558231Z",
+  "specifications": {
+    "weight_kg": 7.58,
+    "dimensions_cm": {
+      "length": 45,
+      "width": 45,
+      "height": 193
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-24T17:05:51.558244Z",
+      "quantity_added": 34
+    },
+    {
+      "date": "2026-02-02T17:05:51.558249Z",
+      "quantity_added": 43
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33031"
+  },
+  "item_id": "INV-0003",
+  "item_name": "Corporate Stationery Product 3",
+  "category": "Stationery",
+  "quantity_in_stock": 103,
+  "reorder_level": 32,
+  "supplier_id": "Unassigned",
+  "unit_price": 485.08,
+  "last_updated": "2026-01-28T17:05:51.558258Z",
+  "specifications": {
+    "weight_kg": 9.4,
+    "dimensions_cm": {
+      "length": 102,
+      "width": 37,
+      "height": 36
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-20T17:05:51.558265Z",
+      "quantity_added": 31
+    },
+    {
+      "date": "2026-01-14T17:05:51.558270Z",
+      "quantity_added": 34
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33032"
+  },
+  "item_id": "INV-0004",
+  "item_name": "Corporate Stationery Product 4",
+  "category": "Stationery",
+  "quantity_in_stock": 8,
+  "reorder_level": 17,
+  "supplier_id": "SUP-080",
+  "unit_price": 88.36,
+  "last_updated": "2026-02-08T17:05:51.558280Z",
+  "specifications": {
+    "weight_kg": 21.7,
+    "dimensions_cm": {
+      "length": 48,
+      "width": 48,
+      "height": 107
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-14T17:05:51.558287Z",
+      "quantity_added": 91
+    },
+    {
+      "date": "2026-01-08T17:05:51.558291Z",
+      "quantity_added": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33033"
+  },
+  "item_id": "INV-0005",
+  "item_name": "Corporate Office Supplies Product 5",
+  "category": "Office Supplies",
+  "quantity_in_stock": 185,
+  "reorder_level": 45,
+  "supplier_id": "SUP-027",
+  "unit_price": 51.67,
+  "last_updated": "2026-02-03T17:05:51.558301Z",
+  "specifications": {
+    "weight_kg": 12.16,
+    "dimensions_cm": {
+      "length": 129,
+      "width": 54,
+      "height": 84
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-23T17:05:51.558308Z",
+      "quantity_added": 84
+    },
+    {
+      "date": "2026-02-15T17:05:51.558311Z",
+      "quantity_added": 28
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33034"
+  },
+  "item_id": "INV-0006",
+  "item_name": "Corporate Electronics Product 6",
+  "category": "Electronics",
+  "quantity_in_stock": 1,
+  "reorder_level": 26,
+  "supplier_id": "SUP-050",
+  "unit_price": 43.48,
+  "last_updated": "2026-01-30T17:05:51.558320Z",
+  "specifications": {
+    "weight_kg": 22.61,
+    "dimensions_cm": {
+      "length": 120,
+      "width": 18,
+      "height": 57
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-14T17:05:51.558327Z",
+      "quantity_added": 45
+    },
+    {
+      "date": "2026-01-02T17:05:51.558331Z",
+      "quantity_added": 27
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33035"
+  },
+  "item_id": "INV-0007",
+  "item_name": "Corporate Stationery Product 7",
+  "category": "Stationery",
+  "quantity_in_stock": 162,
+  "reorder_level": 23,
+  "supplier_id": "SUP-073",
+  "unit_price": 363.4,
+  "last_updated": "2026-01-29T17:05:51.558340Z",
+  "specifications": {
+    "weight_kg": 9.32,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 95,
+      "height": 33
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-10T17:05:51.558347Z",
+      "quantity_added": 59
+    },
+    {
+      "date": "2026-02-01T17:05:51.558351Z",
+      "quantity_added": 38
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33036"
+  },
+  "item_id": "INV-0008",
+  "item_name": "Corporate Electronics Product 8",
+  "category": "Electronics",
+  "quantity_in_stock": 55,
+  "reorder_level": 13,
+  "supplier_id": "SUP-070",
+  "unit_price": 419.28,
+  "last_updated": "2026-02-08T17:05:51.558360Z",
+  "specifications": {
+    "weight_kg": 28.94,
+    "dimensions_cm": {
+      "length": 78,
+      "width": 37,
+      "height": 188
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-13T17:05:51.558366Z",
+      "quantity_added": 84
+    },
+    {
+      "date": "2026-01-11T17:05:51.558371Z",
+      "quantity_added": 43
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33037"
+  },
+  "item_id": "INV-0009",
+  "item_name": "Corporate Office Supplies Product 9",
+  "category": "Office Supplies",
+  "quantity_in_stock": 129,
+  "reorder_level": 26,
+  "supplier_id": "SUP-019",
+  "unit_price": 215.17,
+  "last_updated": "2026-02-02T17:05:51.558382Z",
+  "specifications": {
+    "weight_kg": 10.16,
+    "dimensions_cm": {
+      "length": 141,
+      "width": 40,
+      "height": 131
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-04T17:05:51.558389Z",
+      "quantity_added": 96
+    },
+    {
+      "date": "2026-01-14T17:05:51.558393Z",
+      "quantity_added": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33038"
+  },
+  "item_id": "INV-0010",
+  "item_name": "Corporate Furniture Product 10",
+  "category": "Furniture",
+  "quantity_in_stock": 46,
+  "reorder_level": 43,
+  "supplier_id": "SUP-004",
+  "unit_price": 308.36,
+  "last_updated": "2026-02-20T17:05:51.558401Z",
+  "specifications": {
+    "weight_kg": 15.75,
+    "dimensions_cm": {
+      "length": 80,
+      "width": 35,
+      "height": 158
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-11T17:05:51.558408Z",
+      "quantity_added": 38
+    },
+    {
+      "date": "2026-01-29T17:05:51.558413Z",
+      "quantity_added": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33039"
+  },
+  "item_id": "INV-0011",
+  "item_name": "Corporate Electronics Product 11",
+  "category": "Electronics",
+  "quantity_in_stock": 191,
+  "reorder_level": 42,
+  "supplier_id": "SUP-012",
+  "unit_price": 110.3,
+  "last_updated": "2026-01-28T17:05:51.558424Z",
+  "specifications": {
+    "weight_kg": 21.81,
+    "dimensions_cm": {
+      "length": 117,
+      "width": 90,
+      "height": 104
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-25T17:05:51.558432Z",
+      "quantity_added": 58
+    },
+    {
+      "date": "2026-01-26T17:05:51.558436Z",
+      "quantity_added": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303a"
+  },
+  "item_id": "INV-0012",
+  "item_name": "Corporate Office Supplies Product 12",
+  "category": "Office Supplies",
+  "quantity_in_stock": 118,
+  "reorder_level": 13,
+  "supplier_id": "SUP-021",
+  "unit_price": 247.48,
+  "last_updated": "2026-02-03T17:05:51.558450Z",
+  "specifications": {
+    "weight_kg": 23.63,
+    "dimensions_cm": {
+      "length": 131,
+      "width": 20,
+      "height": 153
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-03T17:05:51.558457Z",
+      "quantity_added": 50
+    },
+    {
+      "date": "2026-02-14T17:05:51.558461Z",
+      "quantity_added": 28
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303b"
+  },
+  "item_id": "INV-0013",
+  "item_name": "Corporate Stationery Product 13",
+  "category": "Stationery",
+  "quantity_in_stock": 153,
+  "reorder_level": 50,
+  "supplier_id": "SUP-001",
+  "unit_price": 361.39,
+  "last_updated": "2026-01-28T17:05:51.558471Z",
+  "specifications": {
+    "weight_kg": 25.83,
+    "dimensions_cm": {
+      "length": 118,
+      "width": 10,
+      "height": 97
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-10T17:05:51.558479Z",
+      "quantity_added": 46
+    },
+    {
+      "date": "2026-02-03T17:05:51.558483Z",
+      "quantity_added": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303c"
+  },
+  "item_id": "INV-0014",
+  "item_name": "Corporate Electronics Product 14",
+  "category": "Electronics",
+  "quantity_in_stock": 197,
+  "reorder_level": 31,
+  "supplier_id": "SUP-025",
+  "unit_price": 209.36,
+  "last_updated": "2026-02-20T17:05:51.558492Z",
+  "specifications": {
+    "weight_kg": 25.27,
+    "dimensions_cm": {
+      "length": 58,
+      "width": 26,
+      "height": 33
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-13T17:05:51.558500Z",
+      "quantity_added": 44
+    },
+    {
+      "date": "2026-02-25T17:05:51.558502Z",
+      "quantity_added": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303d"
+  },
+  "item_id": "INV-0015",
+  "item_name": "Corporate IT Equipment Product 15",
+  "category": "IT Equipment",
+  "quantity_in_stock": 152,
+  "reorder_level": 38,
+  "supplier_id": "SUP-055",
+  "unit_price": 471.31,
+  "last_updated": "2026-02-25T17:05:51.558508Z",
+  "specifications": {
+    "weight_kg": 2.54,
+    "dimensions_cm": {
+      "length": 41,
+      "width": 96,
+      "height": 54
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-20T17:05:51.558515Z",
+      "quantity_added": 28
+    },
+    {
+      "date": "2026-02-22T17:05:51.558518Z",
+      "quantity_added": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303e"
+  },
+  "item_id": "INV-0016",
+  "item_name": "Corporate IT Equipment Product 16",
+  "category": "IT Equipment",
+  "quantity_in_stock": 154,
+  "reorder_level": 12,
+  "supplier_id": "SUP-054",
+  "unit_price": 88.26,
+  "last_updated": "2026-02-16T17:05:51.558524Z",
+  "specifications": {
+    "weight_kg": 27.57,
+    "dimensions_cm": {
+      "length": 12,
+      "width": 26,
+      "height": 183
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-09T17:05:51.558528Z",
+      "quantity_added": 37
+    },
+    {
+      "date": "2026-01-19T17:05:51.558533Z",
+      "quantity_added": 45
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3303f"
+  },
+  "item_id": "INV-0017",
+  "item_name": "Corporate Furniture Product 17",
+  "category": "Furniture",
+  "quantity_in_stock": 110,
+  "reorder_level": 40,
+  "supplier_id": "SUP-058",
+  "unit_price": 17.79,
+  "last_updated": "2026-02-22T17:05:51.558540Z",
+  "specifications": {
+    "weight_kg": 24.6,
+    "dimensions_cm": {
+      "length": 150,
+      "width": 79,
+      "height": 5
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-26T17:05:51.558544Z",
+      "quantity_added": 52
+    },
+    {
+      "date": "2026-01-06T17:05:51.558546Z",
+      "quantity_added": 42
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33040"
+  },
+  "item_id": "INV-0018",
+  "item_name": "Corporate Stationery Product 18",
+  "category": "Stationery",
+  "quantity_in_stock": 28,
+  "reorder_level": 33,
+  "supplier_id": "SUP-057",
+  "unit_price": 326.08,
+  "last_updated": "2026-02-23T17:05:51.558552Z",
+  "specifications": {
+    "weight_kg": 21.58,
+    "dimensions_cm": {
+      "length": 66,
+      "width": 20,
+      "height": 67
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-17T17:05:51.558557Z",
+      "quantity_added": 61
+    },
+    {
+      "date": "2026-01-08T17:05:51.558560Z",
+      "quantity_added": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33041"
+  },
+  "item_id": "INV-0019",
+  "item_name": "Corporate IT Equipment Product 19",
+  "category": "IT Equipment",
+  "quantity_in_stock": 91,
+  "reorder_level": 42,
+  "supplier_id": "SUP-036",
+  "unit_price": 24.75,
+  "last_updated": "2026-02-13T17:05:51.558566Z",
+  "specifications": {
+    "weight_kg": 27.72,
+    "dimensions_cm": {
+      "length": 146,
+      "width": 36,
+      "height": 100
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-19T17:05:51.558570Z",
+      "quantity_added": 60
+    },
+    {
+      "date": "2026-02-23T17:05:51.558572Z",
+      "quantity_added": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33042"
+  },
+  "item_id": "INV-0020",
+  "item_name": "Corporate Office Supplies Product 20",
+  "category": "Office Supplies",
+  "quantity_in_stock": 112,
+  "reorder_level": 42,
+  "supplier_id": "SUP-045",
+  "unit_price": 384.5,
+  "last_updated": "2026-01-29T17:05:51.558578Z",
+  "specifications": {
+    "weight_kg": 15.29,
+    "dimensions_cm": {
+      "length": 97,
+      "width": 58,
+      "height": 139
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-13T17:05:51.558581Z",
+      "quantity_added": 55
+    },
+    {
+      "date": "2026-01-08T17:05:51.558584Z",
+      "quantity_added": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33043"
+  },
+  "item_id": "INV-0021",
+  "item_name": "Corporate Office Supplies Product 21",
+  "category": "Office Supplies",
+  "quantity_in_stock": 8,
+  "reorder_level": 20,
+  "supplier_id": "SUP-054",
+  "unit_price": 244.23,
+  "last_updated": "2026-02-20T17:05:51.558589Z",
+  "specifications": {
+    "weight_kg": 1.52,
+    "dimensions_cm": {
+      "length": 15,
+      "width": 49,
+      "height": 162
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-26T17:05:51.558594Z",
+      "quantity_added": 64
+    },
+    {
+      "date": "2026-01-19T17:05:51.558596Z",
+      "quantity_added": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33044"
+  },
+  "item_id": "INV-0022",
+  "item_name": "Corporate Office Supplies Product 22",
+  "category": "Office Supplies",
+  "quantity_in_stock": 189,
+  "reorder_level": 46,
+  "supplier_id": "SUP-015",
+  "unit_price": 382.9,
+  "last_updated": "2026-02-18T17:05:51.558602Z",
+  "specifications": {
+    "weight_kg": 6.69,
+    "dimensions_cm": {
+      "length": 132,
+      "width": 96,
+      "height": 123
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-28T17:05:51.558606Z",
+      "quantity_added": 56
+    },
+    {
+      "date": "2026-01-12T17:05:51.558608Z",
+      "quantity_added": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33045"
+  },
+  "item_id": "INV-0023",
+  "item_name": "Corporate IT Equipment Product 23",
+  "category": "IT Equipment",
+  "quantity_in_stock": 4,
+  "reorder_level": 25,
+  "supplier_id": "SUP-035",
+  "unit_price": 387.61,
+  "last_updated": "2026-01-28T17:05:51.558614Z",
+  "specifications": {
+    "weight_kg": 21.38,
+    "dimensions_cm": {
+      "length": 20,
+      "width": 21,
+      "height": 15
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-08T17:05:51.558618Z",
+      "quantity_added": 32
+    },
+    {
+      "date": "2026-02-09T17:05:51.558620Z",
+      "quantity_added": 42
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33046"
+  },
+  "item_id": "INV-0024",
+  "item_name": "Corporate IT Equipment Product 24",
+  "category": "IT Equipment",
+  "quantity_in_stock": 69,
+  "reorder_level": 38,
+  "supplier_id": "SUP-051",
+  "unit_price": 9.95,
+  "last_updated": "2026-01-27T17:05:51.558626Z",
+  "specifications": {
+    "weight_kg": 1.08,
+    "dimensions_cm": {
+      "length": 33,
+      "width": 87,
+      "height": 162
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-13T17:05:51.558629Z",
+      "quantity_added": 86
+    },
+    {
+      "date": "2026-01-19T17:05:51.558632Z",
+      "quantity_added": 27
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33047"
+  },
+  "item_id": "INV-0025",
+  "item_name": "Corporate Office Supplies Product 25",
+  "category": "Office Supplies",
+  "quantity_in_stock": 85,
+  "reorder_level": 33,
+  "supplier_id": "SUP-073",
+  "unit_price": 493.12,
+  "last_updated": "2026-02-17T17:05:51.558637Z",
+  "specifications": {
+    "weight_kg": 24.84,
+    "dimensions_cm": {
+      "length": 81,
+      "width": 100,
+      "height": 163
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-19T17:05:51.558641Z",
+      "quantity_added": 59
+    },
+    {
+      "date": "2026-01-20T17:05:51.558643Z",
+      "quantity_added": 19
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33048"
+  },
+  "item_id": "INV-0026",
+  "item_name": "Corporate Furniture Product 26",
+  "category": "Furniture",
+  "quantity_in_stock": 31,
+  "reorder_level": 27,
+  "supplier_id": "SUP-081",
+  "unit_price": 427.18,
+  "last_updated": "2026-02-14T17:05:51.558649Z",
+  "specifications": {
+    "weight_kg": 5.87,
+    "dimensions_cm": {
+      "length": 57,
+      "width": 10,
+      "height": 12
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-02T17:05:51.558653Z",
+      "quantity_added": 69
+    },
+    {
+      "date": "2026-01-16T17:05:51.558655Z",
+      "quantity_added": 22
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33049"
+  },
+  "item_id": "INV-0027",
+  "item_name": "Corporate Furniture Product 27",
+  "category": "Furniture",
+  "quantity_in_stock": 32,
+  "reorder_level": 22,
+  "supplier_id": "SUP-100",
+  "unit_price": 354.47,
+  "last_updated": "2026-02-17T17:05:51.558661Z",
+  "specifications": {
+    "weight_kg": 27.92,
+    "dimensions_cm": {
+      "length": 81,
+      "width": 78,
+      "height": 100
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-02T17:05:51.558665Z",
+      "quantity_added": 38
+    },
+    {
+      "date": "2026-02-19T17:05:51.558668Z",
+      "quantity_added": 43
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304a"
+  },
+  "item_id": "INV-0028",
+  "item_name": "Corporate Office Supplies Product 28",
+  "category": "Office Supplies",
+  "quantity_in_stock": 71,
+  "reorder_level": 45,
+  "supplier_id": "SUP-064",
+  "unit_price": 122.09,
+  "last_updated": "2026-02-22T17:05:51.558679Z",
+  "specifications": {
+    "weight_kg": 12.79,
+    "dimensions_cm": {
+      "length": 18,
+      "width": 43,
+      "height": 106
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-23T17:05:51.558683Z",
+      "quantity_added": 93
+    },
+    {
+      "date": "2026-01-11T17:05:51.558685Z",
+      "quantity_added": 28
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304b"
+  },
+  "item_id": "INV-0029",
+  "item_name": "Corporate Stationery Product 29",
+  "category": "Stationery",
+  "quantity_in_stock": 106,
+  "reorder_level": 48,
+  "supplier_id": "SUP-051",
+  "unit_price": 326.62,
+  "last_updated": "2026-02-21T17:05:51.558690Z",
+  "specifications": {
+    "weight_kg": 23.29,
+    "dimensions_cm": {
+      "length": 131,
+      "width": 91,
+      "height": 110
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-21T17:05:51.558694Z",
+      "quantity_added": 37
+    },
+    {
+      "date": "2025-12-30T17:05:51.558697Z",
+      "quantity_added": 38
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304c"
+  },
+  "item_id": "INV-0030",
+  "item_name": "Corporate Electronics Product 30",
+  "category": "Electronics",
+  "quantity_in_stock": 189,
+  "reorder_level": 13,
+  "supplier_id": "SUP-098",
+  "unit_price": 313.53,
+  "last_updated": "2026-02-14T17:05:51.558702Z",
+  "specifications": {
+    "weight_kg": 20.27,
+    "dimensions_cm": {
+      "length": 83,
+      "width": 20,
+      "height": 66
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-27T17:05:51.558705Z",
+      "quantity_added": 79
+    },
+    {
+      "date": "2026-01-27T17:05:51.558708Z",
+      "quantity_added": 36
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304d"
+  },
+  "item_id": "INV-0031",
+  "item_name": "Corporate Electronics Product 31",
+  "category": "Electronics",
+  "quantity_in_stock": 189,
+  "reorder_level": 31,
+  "supplier_id": "Unassigned",
+  "unit_price": 214.77,
+  "last_updated": "2026-02-17T17:05:51.558716Z",
+  "specifications": {
+    "weight_kg": 18.82,
+    "dimensions_cm": {
+      "length": 13,
+      "width": 36,
+      "height": 96
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-12T17:05:51.558720Z",
+      "quantity_added": 44
+    },
+    {
+      "date": "2025-12-30T17:05:51.558722Z",
+      "quantity_added": 19
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304e"
+  },
+  "item_id": "INV-0032",
+  "item_name": "Corporate Office Supplies Product 32",
+  "category": "Office Supplies",
+  "quantity_in_stock": 184,
+  "reorder_level": 30,
+  "supplier_id": "SUP-057",
+  "unit_price": 212.99,
+  "last_updated": "2026-02-25T17:05:51.558728Z",
+  "specifications": {
+    "weight_kg": 21.41,
+    "dimensions_cm": {
+      "length": 77,
+      "width": 70,
+      "height": 25
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-27T17:05:51.558731Z",
+      "quantity_added": 70
+    },
+    {
+      "date": "2025-12-31T17:05:51.558734Z",
+      "quantity_added": 44
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3304f"
+  },
+  "item_id": "INV-0033",
+  "item_name": "Corporate Electronics Product 33",
+  "category": "Electronics",
+  "quantity_in_stock": 70,
+  "reorder_level": 11,
+  "supplier_id": "SUP-020",
+  "unit_price": 162.07,
+  "last_updated": "2026-02-17T17:05:51.558740Z",
+  "specifications": {
+    "weight_kg": 14.23,
+    "dimensions_cm": {
+      "length": 36,
+      "width": 56,
+      "height": 175
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-02T17:05:51.558743Z",
+      "quantity_added": 82
+    },
+    {
+      "date": "2026-01-23T17:05:51.558746Z",
+      "quantity_added": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33050"
+  },
+  "item_id": "INV-0034",
+  "item_name": "Corporate Stationery Product 34",
+  "category": "Stationery",
+  "quantity_in_stock": 190,
+  "reorder_level": 24,
+  "supplier_id": "Unassigned",
+  "unit_price": 8.09,
+  "last_updated": "2026-02-03T17:05:51.558751Z",
+  "specifications": {
+    "weight_kg": 29.16,
+    "dimensions_cm": {
+      "length": 143,
+      "width": 73,
+      "height": 166
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-21T17:05:51.558755Z",
+      "quantity_added": 100
+    },
+    {
+      "date": "2026-02-15T17:05:51.558757Z",
+      "quantity_added": 38
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33051"
+  },
+  "item_id": "INV-0035",
+  "item_name": "Corporate IT Equipment Product 35",
+  "category": "IT Equipment",
+  "quantity_in_stock": 30,
+  "reorder_level": 42,
+  "supplier_id": "SUP-013",
+  "unit_price": 154.11,
+  "last_updated": "2026-02-11T17:05:51.558762Z",
+  "specifications": {
+    "weight_kg": 17.6,
+    "dimensions_cm": {
+      "length": 26,
+      "width": 59,
+      "height": 134
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-28T17:05:51.558766Z",
+      "quantity_added": 95
+    },
+    {
+      "date": "2026-01-05T17:05:51.558769Z",
+      "quantity_added": 45
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33052"
+  },
+  "item_id": "INV-0036",
+  "item_name": "Corporate IT Equipment Product 36",
+  "category": "IT Equipment",
+  "quantity_in_stock": 29,
+  "reorder_level": 32,
+  "supplier_id": "Unassigned",
+  "unit_price": 406.11,
+  "last_updated": "2026-01-29T17:05:51.558774Z",
+  "specifications": {
+    "weight_kg": 1.04,
+    "dimensions_cm": {
+      "length": 79,
+      "width": 86,
+      "height": 84
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-07T17:05:51.558778Z",
+      "quantity_added": 40
+    },
+    {
+      "date": "2026-01-21T17:05:51.558780Z",
+      "quantity_added": 15
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33053"
+  },
+  "item_id": "INV-0037",
+  "item_name": "Corporate Electronics Product 37",
+  "category": "Electronics",
+  "quantity_in_stock": 108,
+  "reorder_level": 18,
+  "supplier_id": "SUP-088",
+  "unit_price": 311.44,
+  "last_updated": "2026-02-08T17:05:51.558785Z",
+  "specifications": {
+    "weight_kg": 4.98,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 11,
+      "height": 164
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-22T17:05:51.558789Z",
+      "quantity_added": 91
+    },
+    {
+      "date": "2026-01-29T17:05:51.558792Z",
+      "quantity_added": 32
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33054"
+  },
+  "item_id": "INV-0038",
+  "item_name": "Corporate Electronics Product 38",
+  "category": "Electronics",
+  "quantity_in_stock": 124,
+  "reorder_level": 45,
+  "supplier_id": "SUP-050",
+  "unit_price": 277.61,
+  "last_updated": "2026-02-09T17:05:51.558797Z",
+  "specifications": {
+    "weight_kg": 5.46,
+    "dimensions_cm": {
+      "length": 133,
+      "width": 59,
+      "height": 140
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-26T17:05:51.558801Z",
+      "quantity_added": 98
+    },
+    {
+      "date": "2026-01-14T17:05:51.558804Z",
+      "quantity_added": 48
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33055"
+  },
+  "item_id": "INV-0039",
+  "item_name": "Corporate Office Supplies Product 39",
+  "category": "Office Supplies",
+  "quantity_in_stock": 35,
+  "reorder_level": 39,
+  "supplier_id": "SUP-017",
+  "unit_price": 217.02,
+  "last_updated": "2026-02-05T17:05:51.558809Z",
+  "specifications": {
+    "weight_kg": 7.23,
+    "dimensions_cm": {
+      "length": 110,
+      "width": 80,
+      "height": 196
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-20T17:05:51.558813Z",
+      "quantity_added": 56
+    },
+    {
+      "date": "2026-02-10T17:05:51.558815Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33056"
+  },
+  "item_id": "INV-0040",
+  "item_name": "Corporate Electronics Product 40",
+  "category": "Electronics",
+  "quantity_in_stock": 88,
+  "reorder_level": 34,
+  "supplier_id": "SUP-038",
+  "unit_price": 146.53,
+  "last_updated": "2026-02-03T17:05:51.558820Z",
+  "specifications": {
+    "weight_kg": 21.3,
+    "dimensions_cm": {
+      "length": 21,
+      "width": 11,
+      "height": 147
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-01T17:05:51.558824Z",
+      "quantity_added": 37
+    },
+    {
+      "date": "2026-02-01T17:05:51.558827Z",
+      "quantity_added": 28
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33057"
+  },
+  "item_id": "INV-0041",
+  "item_name": "Corporate Stationery Product 41",
+  "category": "Stationery",
+  "quantity_in_stock": 21,
+  "reorder_level": 18,
+  "supplier_id": "Unassigned",
+  "unit_price": 357,
+  "last_updated": "2026-02-15T17:05:51.558832Z",
+  "specifications": {
+    "weight_kg": 1.45,
+    "dimensions_cm": {
+      "length": 65,
+      "width": 51,
+      "height": 126
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-13T17:05:51.558836Z",
+      "quantity_added": 50
+    },
+    {
+      "date": "2026-01-20T17:05:51.558839Z",
+      "quantity_added": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33058"
+  },
+  "item_id": "INV-0042",
+  "item_name": "Corporate Stationery Product 42",
+  "category": "Stationery",
+  "quantity_in_stock": 75,
+  "reorder_level": 11,
+  "supplier_id": "SUP-047",
+  "unit_price": 370.73,
+  "last_updated": "2026-01-27T17:05:51.558844Z",
+  "specifications": {
+    "weight_kg": 24.09,
+    "dimensions_cm": {
+      "length": 137,
+      "width": 81,
+      "height": 127
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-26T17:05:51.558848Z",
+      "quantity_added": 62
+    },
+    {
+      "date": "2026-01-18T17:05:51.558851Z",
+      "quantity_added": 26
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33059"
+  },
+  "item_id": "INV-0043",
+  "item_name": "Corporate Stationery Product 43",
+  "category": "Stationery",
+  "quantity_in_stock": 5,
+  "reorder_level": 32,
+  "supplier_id": "Unassigned",
+  "unit_price": 46.6,
+  "last_updated": "2026-02-22T17:05:51.558855Z",
+  "specifications": {
+    "weight_kg": 19.35,
+    "dimensions_cm": {
+      "length": 101,
+      "width": 97,
+      "height": 64
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-26T17:05:51.558859Z",
+      "quantity_added": 48
+    },
+    {
+      "date": "2026-01-03T17:05:51.558862Z",
+      "quantity_added": 47
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305a"
+  },
+  "item_id": "INV-0044",
+  "item_name": "Corporate Electronics Product 44",
+  "category": "Electronics",
+  "quantity_in_stock": 33,
+  "reorder_level": 39,
+  "supplier_id": "Unassigned",
+  "unit_price": 414.52,
+  "last_updated": "2026-02-22T17:05:51.558866Z",
+  "specifications": {
+    "weight_kg": 18.26,
+    "dimensions_cm": {
+      "length": 21,
+      "width": 19,
+      "height": 160
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-27T17:05:51.558870Z",
+      "quantity_added": 87
+    },
+    {
+      "date": "2026-02-23T17:05:51.558873Z",
+      "quantity_added": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305b"
+  },
+  "item_id": "INV-0045",
+  "item_name": "Corporate IT Equipment Product 45",
+  "category": "IT Equipment",
+  "quantity_in_stock": 47,
+  "reorder_level": 22,
+  "supplier_id": "SUP-082",
+  "unit_price": 110.72,
+  "last_updated": "2026-01-29T17:05:51.558877Z",
+  "specifications": {
+    "weight_kg": 21.06,
+    "dimensions_cm": {
+      "length": 148,
+      "width": 58,
+      "height": 76
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-17T17:05:51.558881Z",
+      "quantity_added": 94
+    },
+    {
+      "date": "2026-01-17T17:05:51.558884Z",
+      "quantity_added": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305c"
+  },
+  "item_id": "INV-0046",
+  "item_name": "Corporate Office Supplies Product 46",
+  "category": "Office Supplies",
+  "quantity_in_stock": 127,
+  "reorder_level": 46,
+  "supplier_id": "SUP-020",
+  "unit_price": 320.21,
+  "last_updated": "2026-02-22T17:05:51.558889Z",
+  "specifications": {
+    "weight_kg": 10.42,
+    "dimensions_cm": {
+      "length": 67,
+      "width": 63,
+      "height": 94
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-24T17:05:51.558893Z",
+      "quantity_added": 51
+    },
+    {
+      "date": "2026-01-20T17:05:51.558896Z",
+      "quantity_added": 11
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305d"
+  },
+  "item_id": "INV-0047",
+  "item_name": "Corporate Stationery Product 47",
+  "category": "Stationery",
+  "quantity_in_stock": 16,
+  "reorder_level": 32,
+  "supplier_id": "SUP-006",
+  "unit_price": 227.1,
+  "last_updated": "2026-02-18T17:05:51.558901Z",
+  "specifications": {
+    "weight_kg": 8.79,
+    "dimensions_cm": {
+      "length": 81,
+      "width": 27,
+      "height": 168
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-11T17:05:51.558905Z",
+      "quantity_added": 59
+    },
+    {
+      "date": "2026-01-20T17:05:51.558908Z",
+      "quantity_added": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305e"
+  },
+  "item_id": "INV-0048",
+  "item_name": "Corporate Office Supplies Product 48",
+  "category": "Office Supplies",
+  "quantity_in_stock": 115,
+  "reorder_level": 29,
+  "supplier_id": "SUP-005",
+  "unit_price": 337.94,
+  "last_updated": "2026-02-12T17:05:51.558913Z",
+  "specifications": {
+    "weight_kg": 5.75,
+    "dimensions_cm": {
+      "length": 113,
+      "width": 40,
+      "height": 8
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-24T17:05:51.558917Z",
+      "quantity_added": 22
+    },
+    {
+      "date": "2026-01-01T17:05:51.558920Z",
+      "quantity_added": 35
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3305f"
+  },
+  "item_id": "INV-0049",
+  "item_name": "Corporate Furniture Product 49",
+  "category": "Furniture",
+  "quantity_in_stock": 120,
+  "reorder_level": 26,
+  "supplier_id": "SUP-003",
+  "unit_price": 165.59,
+  "last_updated": "2026-02-18T17:05:51.558926Z",
+  "specifications": {
+    "weight_kg": 6.56,
+    "dimensions_cm": {
+      "length": 56,
+      "width": 81,
+      "height": 200
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-13T17:05:51.558929Z",
+      "quantity_added": 81
+    },
+    {
+      "date": "2026-01-21T17:05:51.558932Z",
+      "quantity_added": 30
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33060"
+  },
+  "item_id": "INV-0050",
+  "item_name": "Corporate IT Equipment Product 50",
+  "category": "IT Equipment",
+  "quantity_in_stock": 93,
+  "reorder_level": 29,
+  "supplier_id": "SUP-032",
+  "unit_price": 480.49,
+  "last_updated": "2026-02-13T17:05:51.558937Z",
+  "specifications": {
+    "weight_kg": 29.56,
+    "dimensions_cm": {
+      "length": 30,
+      "width": 59,
+      "height": 143
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-07T17:05:51.558940Z",
+      "quantity_added": 35
+    },
+    {
+      "date": "2026-02-25T17:05:51.558943Z",
+      "quantity_added": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33061"
+  },
+  "item_id": "INV-0051",
+  "item_name": "Corporate IT Equipment Product 51",
+  "category": "IT Equipment",
+  "quantity_in_stock": 92,
+  "reorder_level": 45,
+  "supplier_id": "SUP-072",
+  "unit_price": 434.91,
+  "last_updated": "2026-02-20T17:05:51.558959Z",
+  "specifications": {
+    "weight_kg": 5.58,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 34,
+      "height": 118
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-27T17:05:51.558963Z",
+      "quantity_added": 96
+    },
+    {
+      "date": "2026-02-16T17:05:51.558965Z",
+      "quantity_added": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33062"
+  },
+  "item_id": "INV-0052",
+  "item_name": "Corporate Stationery Product 52",
+  "category": "Stationery",
+  "quantity_in_stock": 106,
+  "reorder_level": 44,
+  "supplier_id": "SUP-094",
+  "unit_price": 300.66,
+  "last_updated": "2026-01-30T17:05:51.558971Z",
+  "specifications": {
+    "weight_kg": 0.37,
+    "dimensions_cm": {
+      "length": 64,
+      "width": 12,
+      "height": 53
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-24T17:05:51.558975Z",
+      "quantity_added": 23
+    },
+    {
+      "date": "2026-01-30T17:05:51.558978Z",
+      "quantity_added": 42
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33063"
+  },
+  "item_id": "INV-0053",
+  "item_name": "Corporate Furniture Product 53",
+  "category": "Furniture",
+  "quantity_in_stock": 114,
+  "reorder_level": 13,
+  "supplier_id": "SUP-090",
+  "unit_price": 490.56,
+  "last_updated": "2026-02-18T17:05:51.558983Z",
+  "specifications": {
+    "weight_kg": 10.2,
+    "dimensions_cm": {
+      "length": 126,
+      "width": 13,
+      "height": 102
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-10T17:05:51.558987Z",
+      "quantity_added": 40
+    },
+    {
+      "date": "2026-01-28T17:05:51.558989Z",
+      "quantity_added": 36
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33064"
+  },
+  "item_id": "INV-0054",
+  "item_name": "Corporate Electronics Product 54",
+  "category": "Electronics",
+  "quantity_in_stock": 151,
+  "reorder_level": 36,
+  "supplier_id": "SUP-098",
+  "unit_price": 234.15,
+  "last_updated": "2026-01-27T17:05:51.558995Z",
+  "specifications": {
+    "weight_kg": 11.23,
+    "dimensions_cm": {
+      "length": 67,
+      "width": 96,
+      "height": 76
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-20T17:05:51.558999Z",
+      "quantity_added": 27
+    },
+    {
+      "date": "2026-01-19T17:05:51.559001Z",
+      "quantity_added": 45
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33065"
+  },
+  "item_id": "INV-0055",
+  "item_name": "Corporate Furniture Product 55",
+  "category": "Furniture",
+  "quantity_in_stock": 140,
+  "reorder_level": 43,
+  "supplier_id": "Unassigned",
+  "unit_price": 93.51,
+  "last_updated": "2026-02-22T17:05:51.559006Z",
+  "specifications": {
+    "weight_kg": 9.4,
+    "dimensions_cm": {
+      "length": 84,
+      "width": 30,
+      "height": 166
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-11T17:05:51.559009Z",
+      "quantity_added": 21
+    },
+    {
+      "date": "2026-02-12T17:05:51.559012Z",
+      "quantity_added": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33066"
+  },
+  "item_id": "INV-0056",
+  "item_name": "Corporate Electronics Product 56",
+  "category": "Electronics",
+  "quantity_in_stock": 150,
+  "reorder_level": 18,
+  "supplier_id": "SUP-091",
+  "unit_price": 454.28,
+  "last_updated": "2026-02-21T17:05:51.559017Z",
+  "specifications": {
+    "weight_kg": 17.6,
+    "dimensions_cm": {
+      "length": 91,
+      "width": 97,
+      "height": 42
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-27T17:05:51.559021Z",
+      "quantity_added": 22
+    },
+    {
+      "date": "2026-01-25T17:05:51.559024Z",
+      "quantity_added": 45
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33067"
+  },
+  "item_id": "INV-0057",
+  "item_name": "Corporate Office Supplies Product 57",
+  "category": "Office Supplies",
+  "quantity_in_stock": 149,
+  "reorder_level": 26,
+  "supplier_id": "SUP-031",
+  "unit_price": 403.85,
+  "last_updated": "2026-02-15T17:05:51.559029Z",
+  "specifications": {
+    "weight_kg": 1.22,
+    "dimensions_cm": {
+      "length": 127,
+      "width": 78,
+      "height": 173
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-16T17:05:51.559033Z",
+      "quantity_added": 38
+    },
+    {
+      "date": "2026-01-04T17:05:51.559035Z",
+      "quantity_added": 29
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33068"
+  },
+  "item_id": "INV-0058",
+  "item_name": "Corporate Furniture Product 58",
+  "category": "Furniture",
+  "quantity_in_stock": 191,
+  "reorder_level": 46,
+  "supplier_id": "SUP-096",
+  "unit_price": 175.19,
+  "last_updated": "2026-02-23T17:05:51.559040Z",
+  "specifications": {
+    "weight_kg": 10.01,
+    "dimensions_cm": {
+      "length": 11,
+      "width": 86,
+      "height": 59
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-19T17:05:51.559044Z",
+      "quantity_added": 69
+    },
+    {
+      "date": "2026-01-07T17:05:51.559047Z",
+      "quantity_added": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33069"
+  },
+  "item_id": "INV-0059",
+  "item_name": "Corporate IT Equipment Product 59",
+  "category": "IT Equipment",
+  "quantity_in_stock": 160,
+  "reorder_level": 23,
+  "supplier_id": "SUP-010",
+  "unit_price": 301.05,
+  "last_updated": "2026-02-23T17:05:51.559052Z",
+  "specifications": {
+    "weight_kg": 8.05,
+    "dimensions_cm": {
+      "length": 95,
+      "width": 86,
+      "height": 57
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-02T17:05:51.559056Z",
+      "quantity_added": 48
+    },
+    {
+      "date": "2026-01-22T17:05:51.559058Z",
+      "quantity_added": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306a"
+  },
+  "item_id": "INV-0060",
+  "item_name": "Corporate Electronics Product 60",
+  "category": "Electronics",
+  "quantity_in_stock": 145,
+  "reorder_level": 12,
+  "supplier_id": "SUP-068",
+  "unit_price": 208.44,
+  "last_updated": "2026-02-23T17:05:51.559063Z",
+  "specifications": {
+    "weight_kg": 1.45,
+    "dimensions_cm": {
+      "length": 10,
+      "width": 100,
+      "height": 75
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-05T17:05:51.559067Z",
+      "quantity_added": 26
+    },
+    {
+      "date": "2026-01-16T17:05:51.559069Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306b"
+  },
+  "item_id": "INV-0061",
+  "item_name": "Corporate Stationery Product 61",
+  "category": "Stationery",
+  "quantity_in_stock": 191,
+  "reorder_level": 14,
+  "supplier_id": "SUP-041",
+  "unit_price": 485.25,
+  "last_updated": "2026-02-01T17:05:51.559075Z",
+  "specifications": {
+    "weight_kg": 15.71,
+    "dimensions_cm": {
+      "length": 23,
+      "width": 74,
+      "height": 9
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-06T17:05:51.559078Z",
+      "quantity_added": 100
+    },
+    {
+      "date": "2026-02-17T17:05:51.559081Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306c"
+  },
+  "item_id": "INV-0062",
+  "item_name": "Corporate Furniture Product 62",
+  "category": "Furniture",
+  "quantity_in_stock": 193,
+  "reorder_level": 22,
+  "supplier_id": "SUP-094",
+  "unit_price": 163.71,
+  "last_updated": "2026-02-04T17:05:51.559086Z",
+  "specifications": {
+    "weight_kg": 4.4,
+    "dimensions_cm": {
+      "length": 25,
+      "width": 75,
+      "height": 193
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-13T17:05:51.559090Z",
+      "quantity_added": 30
+    },
+    {
+      "date": "2026-02-09T17:05:51.559092Z",
+      "quantity_added": 35
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306d"
+  },
+  "item_id": "INV-0063",
+  "item_name": "Corporate Furniture Product 63",
+  "category": "Furniture",
+  "quantity_in_stock": 41,
+  "reorder_level": 31,
+  "supplier_id": "SUP-069",
+  "unit_price": 485.66,
+  "last_updated": "2026-02-06T17:05:51.559097Z",
+  "specifications": {
+    "weight_kg": 27.2,
+    "dimensions_cm": {
+      "length": 142,
+      "width": 69,
+      "height": 172
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-26T17:05:51.559101Z",
+      "quantity_added": 23
+    },
+    {
+      "date": "2026-02-03T17:05:51.559103Z",
+      "quantity_added": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306e"
+  },
+  "item_id": "INV-0064",
+  "item_name": "Corporate IT Equipment Product 64",
+  "category": "IT Equipment",
+  "quantity_in_stock": 115,
+  "reorder_level": 49,
+  "supplier_id": "Unassigned",
+  "unit_price": 7.15,
+  "last_updated": "2026-02-04T17:05:51.559108Z",
+  "specifications": {
+    "weight_kg": 11.45,
+    "dimensions_cm": {
+      "length": 63,
+      "width": 61,
+      "height": 160
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-14T17:05:51.559112Z",
+      "quantity_added": 52
+    },
+    {
+      "date": "2026-02-09T17:05:51.559115Z",
+      "quantity_added": 36
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3306f"
+  },
+  "item_id": "INV-0065",
+  "item_name": "Corporate Electronics Product 65",
+  "category": "Electronics",
+  "quantity_in_stock": 104,
+  "reorder_level": 30,
+  "supplier_id": "SUP-067",
+  "unit_price": 86.13,
+  "last_updated": "2026-02-04T17:05:51.559120Z",
+  "specifications": {
+    "weight_kg": 12.28,
+    "dimensions_cm": {
+      "length": 23,
+      "width": 49,
+      "height": 185
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-25T17:05:51.559124Z",
+      "quantity_added": 21
+    },
+    {
+      "date": "2026-01-24T17:05:51.559126Z",
+      "quantity_added": 48
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33070"
+  },
+  "item_id": "INV-0066",
+  "item_name": "Corporate Electronics Product 66",
+  "category": "Electronics",
+  "quantity_in_stock": 130,
+  "reorder_level": 21,
+  "supplier_id": "SUP-035",
+  "unit_price": 17.79,
+  "last_updated": "2026-02-11T17:05:51.559133Z",
+  "specifications": {
+    "weight_kg": 24.74,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 81,
+      "height": 21
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-02T17:05:51.559137Z",
+      "quantity_added": 89
+    },
+    {
+      "date": "2026-01-24T17:05:51.559139Z",
+      "quantity_added": 32
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33071"
+  },
+  "item_id": "INV-0067",
+  "item_name": "Corporate Furniture Product 67",
+  "category": "Furniture",
+  "quantity_in_stock": 13,
+  "reorder_level": 10,
+  "supplier_id": "Unassigned",
+  "unit_price": 145.4,
+  "last_updated": "2026-01-28T17:05:51.559144Z",
+  "specifications": {
+    "weight_kg": 19.18,
+    "dimensions_cm": {
+      "length": 147,
+      "width": 70,
+      "height": 139
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-08T17:05:51.559148Z",
+      "quantity_added": 39
+    },
+    {
+      "date": "2026-02-05T17:05:51.559150Z",
+      "quantity_added": 44
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33072"
+  },
+  "item_id": "INV-0068",
+  "item_name": "Corporate Stationery Product 68",
+  "category": "Stationery",
+  "quantity_in_stock": 33,
+  "reorder_level": 27,
+  "supplier_id": "SUP-089",
+  "unit_price": 386.9,
+  "last_updated": "2026-01-29T17:05:51.559155Z",
+  "specifications": {
+    "weight_kg": 7.49,
+    "dimensions_cm": {
+      "length": 27,
+      "width": 94,
+      "height": 24
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-29T17:05:51.559159Z",
+      "quantity_added": 35
+    },
+    {
+      "date": "2026-01-28T17:05:51.559161Z",
+      "quantity_added": 19
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33073"
+  },
+  "item_id": "INV-0069",
+  "item_name": "Corporate Stationery Product 69",
+  "category": "Stationery",
+  "quantity_in_stock": 45,
+  "reorder_level": 30,
+  "supplier_id": "SUP-094",
+  "unit_price": 211.99,
+  "last_updated": "2026-02-12T17:05:51.559166Z",
+  "specifications": {
+    "weight_kg": 4.9,
+    "dimensions_cm": {
+      "length": 31,
+      "width": 16,
+      "height": 193
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-20T17:05:51.559170Z",
+      "quantity_added": 37
+    },
+    {
+      "date": "2026-01-25T17:05:51.559173Z",
+      "quantity_added": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33074"
+  },
+  "item_id": "INV-0070",
+  "item_name": "Corporate IT Equipment Product 70",
+  "category": "IT Equipment",
+  "quantity_in_stock": 102,
+  "reorder_level": 17,
+  "supplier_id": "SUP-040",
+  "unit_price": 252.88,
+  "last_updated": "2026-02-21T17:05:51.559178Z",
+  "specifications": {
+    "weight_kg": 15.53,
+    "dimensions_cm": {
+      "length": 98,
+      "width": 58,
+      "height": 32
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-01T17:05:51.559182Z",
+      "quantity_added": 41
+    },
+    {
+      "date": "2026-02-23T17:05:51.559185Z",
+      "quantity_added": 32
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33075"
+  },
+  "item_id": "INV-0071",
+  "item_name": "Corporate Office Supplies Product 71",
+  "category": "Office Supplies",
+  "quantity_in_stock": 1,
+  "reorder_level": 49,
+  "supplier_id": "SUP-071",
+  "unit_price": 286.65,
+  "last_updated": "2026-02-07T17:05:51.559190Z",
+  "specifications": {
+    "weight_kg": 7.12,
+    "dimensions_cm": {
+      "length": 107,
+      "width": 83,
+      "height": 160
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-10T17:05:51.559193Z",
+      "quantity_added": 35
+    },
+    {
+      "date": "2026-01-19T17:05:51.559196Z",
+      "quantity_added": 21
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33076"
+  },
+  "item_id": "INV-0072",
+  "item_name": "Corporate Electronics Product 72",
+  "category": "Electronics",
+  "quantity_in_stock": 100,
+  "reorder_level": 46,
+  "supplier_id": "SUP-071",
+  "unit_price": 307.57,
+  "last_updated": "2026-02-24T17:05:51.559201Z",
+  "specifications": {
+    "weight_kg": 6.82,
+    "dimensions_cm": {
+      "length": 97,
+      "width": 33,
+      "height": 17
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-12T17:05:51.559205Z",
+      "quantity_added": 50
+    },
+    {
+      "date": "2026-02-20T17:05:51.559208Z",
+      "quantity_added": 13
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33077"
+  },
+  "item_id": "INV-0073",
+  "item_name": "Corporate Office Supplies Product 73",
+  "category": "Office Supplies",
+  "quantity_in_stock": 79,
+  "reorder_level": 22,
+  "supplier_id": "SUP-041",
+  "unit_price": 158.97,
+  "last_updated": "2026-01-29T17:05:51.559212Z",
+  "specifications": {
+    "weight_kg": 9.54,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 34,
+      "height": 188
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-25T17:05:51.559216Z",
+      "quantity_added": 34
+    },
+    {
+      "date": "2026-02-14T17:05:51.559219Z",
+      "quantity_added": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33078"
+  },
+  "item_id": "INV-0074",
+  "item_name": "Corporate Furniture Product 74",
+  "category": "Furniture",
+  "quantity_in_stock": 61,
+  "reorder_level": 18,
+  "supplier_id": "SUP-073",
+  "unit_price": 126.29,
+  "last_updated": "2026-01-27T17:05:51.559224Z",
+  "specifications": {
+    "weight_kg": 13.66,
+    "dimensions_cm": {
+      "length": 133,
+      "width": 57,
+      "height": 55
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-27T17:05:51.559228Z",
+      "quantity_added": 41
+    },
+    {
+      "date": "2026-01-16T17:05:51.559231Z",
+      "quantity_added": 10
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33079"
+  },
+  "item_id": "INV-0075",
+  "item_name": "Corporate Office Supplies Product 75",
+  "category": "Office Supplies",
+  "quantity_in_stock": 174,
+  "reorder_level": 46,
+  "supplier_id": "SUP-100",
+  "unit_price": 303.58,
+  "last_updated": "2026-02-20T17:05:51.559235Z",
+  "specifications": {
+    "weight_kg": 16.25,
+    "dimensions_cm": {
+      "length": 20,
+      "width": 22,
+      "height": 9
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-14T17:05:51.559239Z",
+      "quantity_added": 75
+    },
+    {
+      "date": "2026-01-02T17:05:51.559242Z",
+      "quantity_added": 24
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307a"
+  },
+  "item_id": "INV-0076",
+  "item_name": "Corporate Electronics Product 76",
+  "category": "Electronics",
+  "quantity_in_stock": 112,
+  "reorder_level": 18,
+  "supplier_id": "SUP-021",
+  "unit_price": 392.8,
+  "last_updated": "2026-02-01T17:05:51.559247Z",
+  "specifications": {
+    "weight_kg": 9.05,
+    "dimensions_cm": {
+      "length": 114,
+      "width": 89,
+      "height": 184
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-18T17:05:51.559251Z",
+      "quantity_added": 92
+    },
+    {
+      "date": "2026-02-16T17:05:51.559253Z",
+      "quantity_added": 13
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307b"
+  },
+  "item_id": "INV-0077",
+  "item_name": "Corporate Office Supplies Product 77",
+  "category": "Office Supplies",
+  "quantity_in_stock": 102,
+  "reorder_level": 16,
+  "supplier_id": "SUP-031",
+  "unit_price": 496.73,
+  "last_updated": "2026-02-03T17:05:51.559258Z",
+  "specifications": {
+    "weight_kg": 3.55,
+    "dimensions_cm": {
+      "length": 72,
+      "width": 85,
+      "height": 13
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-09T17:05:51.559262Z",
+      "quantity_added": 39
+    },
+    {
+      "date": "2026-02-17T17:05:51.559264Z",
+      "quantity_added": 48
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307c"
+  },
+  "item_id": "INV-0078",
+  "item_name": "Corporate Stationery Product 78",
+  "category": "Stationery",
+  "quantity_in_stock": 16,
+  "reorder_level": 10,
+  "supplier_id": "SUP-082",
+  "unit_price": 396.94,
+  "last_updated": "2026-02-21T17:05:51.559271Z",
+  "specifications": {
+    "weight_kg": 29.8,
+    "dimensions_cm": {
+      "length": 38,
+      "width": 52,
+      "height": 18
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-23T17:05:51.559275Z",
+      "quantity_added": 44
+    },
+    {
+      "date": "2026-02-04T17:05:51.559277Z",
+      "quantity_added": 14
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307d"
+  },
+  "item_id": "INV-0079",
+  "item_name": "Corporate Furniture Product 79",
+  "category": "Furniture",
+  "quantity_in_stock": 61,
+  "reorder_level": 16,
+  "supplier_id": "Unassigned",
+  "unit_price": 189.98,
+  "last_updated": "2026-01-29T17:05:51.559282Z",
+  "specifications": {
+    "weight_kg": 22.6,
+    "dimensions_cm": {
+      "length": 53,
+      "width": 24,
+      "height": 186
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-22T17:05:51.559287Z",
+      "quantity_added": 75
+    },
+    {
+      "date": "2026-02-17T17:05:51.559289Z",
+      "quantity_added": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307e"
+  },
+  "item_id": "INV-0080",
+  "item_name": "Corporate Stationery Product 80",
+  "category": "Stationery",
+  "quantity_in_stock": 70,
+  "reorder_level": 30,
+  "supplier_id": "SUP-018",
+  "unit_price": 78.77,
+  "last_updated": "2026-02-20T17:05:51.559295Z",
+  "specifications": {
+    "weight_kg": 21.99,
+    "dimensions_cm": {
+      "length": 120,
+      "width": 20,
+      "height": 80
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-19T17:05:51.559299Z",
+      "quantity_added": 82
+    },
+    {
+      "date": "2026-02-10T17:05:51.559301Z",
+      "quantity_added": 19
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3307f"
+  },
+  "item_id": "INV-0081",
+  "item_name": "Corporate Stationery Product 81",
+  "category": "Stationery",
+  "quantity_in_stock": 27,
+  "reorder_level": 14,
+  "supplier_id": "SUP-068",
+  "unit_price": 157.68,
+  "last_updated": "2026-01-31T17:05:51.559308Z",
+  "specifications": {
+    "weight_kg": 12.15,
+    "dimensions_cm": {
+      "length": 62,
+      "width": 15,
+      "height": 196
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-26T17:05:51.559312Z",
+      "quantity_added": 61
+    },
+    {
+      "date": "2026-02-08T17:05:51.559315Z",
+      "quantity_added": 48
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33080"
+  },
+  "item_id": "INV-0082",
+  "item_name": "Corporate Furniture Product 82",
+  "category": "Furniture",
+  "quantity_in_stock": 189,
+  "reorder_level": 20,
+  "supplier_id": "SUP-084",
+  "unit_price": 382.09,
+  "last_updated": "2026-02-19T17:05:51.559320Z",
+  "specifications": {
+    "weight_kg": 16.67,
+    "dimensions_cm": {
+      "length": 131,
+      "width": 57,
+      "height": 167
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-11T17:05:51.559324Z",
+      "quantity_added": 30
+    },
+    {
+      "date": "2026-01-13T17:05:51.559326Z",
+      "quantity_added": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33081"
+  },
+  "item_id": "INV-0083",
+  "item_name": "Corporate IT Equipment Product 83",
+  "category": "IT Equipment",
+  "quantity_in_stock": 46,
+  "reorder_level": 34,
+  "supplier_id": "SUP-012",
+  "unit_price": 483.47,
+  "last_updated": "2026-02-14T17:05:51.559331Z",
+  "specifications": {
+    "weight_kg": 6.55,
+    "dimensions_cm": {
+      "length": 39,
+      "width": 65,
+      "height": 158
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-21T17:05:51.559335Z",
+      "quantity_added": 29
+    },
+    {
+      "date": "2026-01-31T17:05:51.559337Z",
+      "quantity_added": 44
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33082"
+  },
+  "item_id": "INV-0084",
+  "item_name": "Corporate Stationery Product 84",
+  "category": "Stationery",
+  "quantity_in_stock": 160,
+  "reorder_level": 22,
+  "supplier_id": "SUP-093",
+  "unit_price": 476.94,
+  "last_updated": "2026-02-24T17:05:51.559342Z",
+  "specifications": {
+    "weight_kg": 17.52,
+    "dimensions_cm": {
+      "length": 81,
+      "width": 19,
+      "height": 151
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-04T17:05:51.559346Z",
+      "quantity_added": 41
+    },
+    {
+      "date": "2026-01-04T17:05:51.559349Z",
+      "quantity_added": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33083"
+  },
+  "item_id": "INV-0085",
+  "item_name": "Corporate Electronics Product 85",
+  "category": "Electronics",
+  "quantity_in_stock": 158,
+  "reorder_level": 13,
+  "supplier_id": "SUP-074",
+  "unit_price": 434,
+  "last_updated": "2026-02-20T17:05:51.559354Z",
+  "specifications": {
+    "weight_kg": 5.25,
+    "dimensions_cm": {
+      "length": 62,
+      "width": 81,
+      "height": 135
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-20T17:05:51.559358Z",
+      "quantity_added": 24
+    },
+    {
+      "date": "2026-01-11T17:05:51.559361Z",
+      "quantity_added": 40
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33084"
+  },
+  "item_id": "INV-0086",
+  "item_name": "Corporate Furniture Product 86",
+  "category": "Furniture",
+  "quantity_in_stock": 47,
+  "reorder_level": 15,
+  "supplier_id": "SUP-005",
+  "unit_price": 403.53,
+  "last_updated": "2026-02-25T17:05:51.559366Z",
+  "specifications": {
+    "weight_kg": 17,
+    "dimensions_cm": {
+      "length": 57,
+      "width": 80,
+      "height": 57
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-15T17:05:51.559370Z",
+      "quantity_added": 88
+    },
+    {
+      "date": "2026-02-19T17:05:51.559373Z",
+      "quantity_added": 41
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33085"
+  },
+  "item_id": "INV-0087",
+  "item_name": "Corporate Office Supplies Product 87",
+  "category": "Office Supplies",
+  "quantity_in_stock": 159,
+  "reorder_level": 22,
+  "supplier_id": "SUP-017",
+  "unit_price": 138.61,
+  "last_updated": "2026-02-12T17:05:51.559378Z",
+  "specifications": {
+    "weight_kg": 29.77,
+    "dimensions_cm": {
+      "length": 42,
+      "width": 18,
+      "height": 45
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-14T17:05:51.559382Z",
+      "quantity_added": 30
+    },
+    {
+      "date": "2026-01-08T17:05:51.559385Z",
+      "quantity_added": 21
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33086"
+  },
+  "item_id": "INV-0088",
+  "item_name": "Corporate Office Supplies Product 88",
+  "category": "Office Supplies",
+  "quantity_in_stock": 88,
+  "reorder_level": 14,
+  "supplier_id": "SUP-068",
+  "unit_price": 100.35,
+  "last_updated": "2026-02-10T17:05:51.559390Z",
+  "specifications": {
+    "weight_kg": 8.43,
+    "dimensions_cm": {
+      "length": 33,
+      "width": 92,
+      "height": 182
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-25T17:05:51.559394Z",
+      "quantity_added": 97
+    },
+    {
+      "date": "2026-02-19T17:05:51.559397Z",
+      "quantity_added": 49
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33087"
+  },
+  "item_id": "INV-0089",
+  "item_name": "Corporate Stationery Product 89",
+  "category": "Stationery",
+  "quantity_in_stock": 158,
+  "reorder_level": 38,
+  "supplier_id": "SUP-059",
+  "unit_price": 244.46,
+  "last_updated": "2026-01-29T17:05:51.559402Z",
+  "specifications": {
+    "weight_kg": 19.93,
+    "dimensions_cm": {
+      "length": 132,
+      "width": 36,
+      "height": 2
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-27T17:05:51.559406Z",
+      "quantity_added": 98
+    },
+    {
+      "date": "2025-12-30T17:05:51.559409Z",
+      "quantity_added": 12
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33088"
+  },
+  "item_id": "INV-0090",
+  "item_name": "Corporate Furniture Product 90",
+  "category": "Furniture",
+  "quantity_in_stock": 101,
+  "reorder_level": 21,
+  "supplier_id": "SUP-003",
+  "unit_price": 261.36,
+  "last_updated": "2026-01-29T17:05:51.559414Z",
+  "specifications": {
+    "weight_kg": 9.39,
+    "dimensions_cm": {
+      "length": 81,
+      "width": 38,
+      "height": 193
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-26T17:05:51.559418Z",
+      "quantity_added": 81
+    },
+    {
+      "date": "2026-02-24T17:05:51.559420Z",
+      "quantity_added": 27
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33089"
+  },
+  "item_id": "INV-0091",
+  "item_name": "Corporate Electronics Product 91",
+  "category": "Electronics",
+  "quantity_in_stock": 54,
+  "reorder_level": 48,
+  "supplier_id": "SUP-095",
+  "unit_price": 384.48,
+  "last_updated": "2026-02-13T17:05:51.559425Z",
+  "specifications": {
+    "weight_kg": 5.22,
+    "dimensions_cm": {
+      "length": 66,
+      "width": 66,
+      "height": 51
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-13T17:05:51.559429Z",
+      "quantity_added": 34
+    },
+    {
+      "date": "2026-01-22T17:05:51.559432Z",
+      "quantity_added": 39
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308a"
+  },
+  "item_id": "INV-0092",
+  "item_name": "Corporate Office Supplies Product 92",
+  "category": "Office Supplies",
+  "quantity_in_stock": 6,
+  "reorder_level": 24,
+  "supplier_id": "SUP-022",
+  "unit_price": 175.03,
+  "last_updated": "2026-02-09T17:05:51.559445Z",
+  "specifications": {
+    "weight_kg": 20.71,
+    "dimensions_cm": {
+      "length": 136,
+      "width": 80,
+      "height": 171
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-12-05T17:05:51.559449Z",
+      "quantity_added": 50
+    },
+    {
+      "date": "2026-01-03T17:05:51.559452Z",
+      "quantity_added": 18
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308b"
+  },
+  "item_id": "INV-0093",
+  "item_name": "Corporate Stationery Product 93",
+  "category": "Stationery",
+  "quantity_in_stock": 25,
+  "reorder_level": 42,
+  "supplier_id": "SUP-064",
+  "unit_price": 472.22,
+  "last_updated": "2026-02-20T17:05:51.559457Z",
+  "specifications": {
+    "weight_kg": 21.01,
+    "dimensions_cm": {
+      "length": 102,
+      "width": 63,
+      "height": 149
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-02T17:05:51.559461Z",
+      "quantity_added": 80
+    },
+    {
+      "date": "2026-02-16T17:05:51.559463Z",
+      "quantity_added": 23
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308c"
+  },
+  "item_id": "INV-0094",
+  "item_name": "Corporate Office Supplies Product 94",
+  "category": "Office Supplies",
+  "quantity_in_stock": 95,
+  "reorder_level": 50,
+  "supplier_id": "SUP-035",
+  "unit_price": 143.33,
+  "last_updated": "2026-02-19T17:05:51.559468Z",
+  "specifications": {
+    "weight_kg": 18.44,
+    "dimensions_cm": {
+      "length": 48,
+      "width": 12,
+      "height": 169
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-20T17:05:51.559472Z",
+      "quantity_added": 44
+    },
+    {
+      "date": "2026-02-05T17:05:51.559475Z",
+      "quantity_added": 23
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308d"
+  },
+  "item_id": "INV-0095",
+  "item_name": "Corporate IT Equipment Product 95",
+  "category": "IT Equipment",
+  "quantity_in_stock": 141,
+  "reorder_level": 45,
+  "supplier_id": "SUP-009",
+  "unit_price": 106.89,
+  "last_updated": "2026-02-02T17:05:51.559480Z",
+  "specifications": {
+    "weight_kg": 28.99,
+    "dimensions_cm": {
+      "length": 50,
+      "width": 53,
+      "height": 45
+    },
+    "materials": [
+      "mesh",
+      "nylon"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-09-27T17:05:51.559484Z",
+      "quantity_added": 64
+    },
+    {
+      "date": "2026-02-06T17:05:51.559486Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308e"
+  },
+  "item_id": "INV-0096",
+  "item_name": "Corporate Stationery Product 96",
+  "category": "Stationery",
+  "quantity_in_stock": 68,
+  "reorder_level": 34,
+  "supplier_id": "SUP-094",
+  "unit_price": 456.37,
+  "last_updated": "2026-01-29T17:05:51.559491Z",
+  "specifications": {
+    "weight_kg": 14.24,
+    "dimensions_cm": {
+      "length": 34,
+      "width": 43,
+      "height": 16
+    },
+    "materials": [
+      "plastic",
+      "metal"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-11-24T17:05:51.559495Z",
+      "quantity_added": 45
+    },
+    {
+      "date": "2026-01-06T17:05:51.559497Z",
+      "quantity_added": 25
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e3308f"
+  },
+  "item_id": "INV-0097",
+  "item_name": "Corporate Electronics Product 97",
+  "category": "Electronics",
+  "quantity_in_stock": 79,
+  "reorder_level": 49,
+  "supplier_id": "SUP-091",
+  "unit_price": 270.69,
+  "last_updated": "2026-01-27T17:05:51.559502Z",
+  "specifications": {
+    "weight_kg": 24.7,
+    "dimensions_cm": {
+      "length": 138,
+      "width": 41,
+      "height": 121
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-29T17:05:51.559506Z",
+      "quantity_added": 58
+    },
+    {
+      "date": "2026-02-08T17:05:51.559510Z",
+      "quantity_added": 22
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33090"
+  },
+  "item_id": "INV-0098",
+  "item_name": "Corporate Furniture Product 98",
+  "category": "Furniture",
+  "quantity_in_stock": 47,
+  "reorder_level": 34,
+  "supplier_id": "SUP-090",
+  "unit_price": 51.06,
+  "last_updated": "2026-01-30T17:05:51.559516Z",
+  "specifications": {
+    "weight_kg": 5.09,
+    "dimensions_cm": {
+      "length": 120,
+      "width": 81,
+      "height": 191
+    },
+    "materials": [
+      "wood",
+      "steel"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-02-02T17:05:51.559520Z",
+      "quantity_added": 28
+    },
+    {
+      "date": "2026-01-10T17:05:51.559522Z",
+      "quantity_added": 31
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33091"
+  },
+  "item_id": "INV-0099",
+  "item_name": "Corporate Office Supplies Product 99",
+  "category": "Office Supplies",
+  "quantity_in_stock": 92,
+  "reorder_level": 23,
+  "supplier_id": "Unassigned",
+  "unit_price": 204.82,
+  "last_updated": "2026-02-22T17:05:51.559527Z",
+  "specifications": {
+    "weight_kg": 8.35,
+    "dimensions_cm": {
+      "length": 68,
+      "width": 31,
+      "height": 37
+    },
+    "materials": [
+      "aluminum",
+      "glass"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2026-01-27T17:05:51.559531Z",
+      "quantity_added": 90
+    },
+    {
+      "date": "2026-02-09T17:05:51.559533Z",
+      "quantity_added": 38
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69aebba78376556264e33092"
+  },
+  "item_id": "INV-0100",
+  "item_name": "Corporate Office Supplies Product 100",
+  "category": "Office Supplies",
+  "quantity_in_stock": 0,
+  "reorder_level": 30,
+  "supplier_id": "Unassigned",
+  "unit_price": 495.64,
+  "last_updated": "2026-02-22T17:05:51.559538Z",
+  "specifications": {
+    "weight_kg": 14.91,
+    "dimensions_cm": {
+      "length": 125,
+      "width": 50,
+      "height": 81
+    },
+    "materials": [
+      "recycled paper"
+    ]
+  },
+  "restock_history": [
+    {
+      "date": "2025-10-24T17:05:51.559542Z",
+      "quantity_added": 31
+    },
+    {
+      "date": "2026-01-26T17:05:51.559545Z",
+      "quantity_added": 17
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69b35758a576d11e67986fc9"
+  },
+  "item_id": "INV-6767",
+  "item_name": "ACER Nitro 5 i7",
+  "category": "Computer",
+  "supplier_id": "SUP-6767",
+  "quantity_in_stock": "500",
+  "reorder_level": "50",
+  "unit_price": "500",
+  "specifications": "{\"dimensions_cm\": {\"height\": 84, \"length\": 129, \"width\": 54}, \"materials\": [\"plastic\"], \"weight_kg\": 3}",
+  "restock_history": "[{\"date\": \"2025-12-23T17:05:51Z\", \"quantity_added\": 84}, {\"date\": \"2026-02-15T17:05:51Z\", \"quantity_added\": 28}]",
+  "last_updated": "2026-03-13T00:16:24.213052"
+}]
