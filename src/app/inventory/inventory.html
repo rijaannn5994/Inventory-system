@@ -3,39 +3,36 @@
 <h2>There are {{ inventory_list.length }} inventory in the directory</h2>
 
 <h2>This is the first item {{ inventory_list[0].name }}</h2>
+<br>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12">
       @for (inventory of inventory_list; track inventory.name) {
         <div class="card text-white bg-primary mb-3">
-          <div class="card-header">Item ID: {{ inventory.item_id }} <br /></div>
+          <hr />
+          <div class="card-header">Item ID: {{ inventory.item_id }}</div>
+          <hr />
+          <div class="card-body">
+            <p>Item Name: {{ inventory.item_name }}</p>
+            <p>Category: {{ inventory.category }}</p>
+            <p>Quantity in Stock: {{ inventory.quantity_in_stock }}</p>
+            <p>Reorder Level: {{ inventory.reorder_level }}</p>
+            <p>Supplier ID: {{ inventory.supplier_id }}</p>
+            <p>Unit Price: {{ inventory.unit_price }}</p>
+            <p>Last Updated: {{ inventory.last_updated }}</p>
 
-          <div class="card-body">Item Name: {{ inventory.item_name }} <br /></div>
+            <h3>Specifications</h3>
+            <p>Length: {{ inventory.specifications.dimensions_cm.length }}</p>
+            <p>Width: {{ inventory.specifications.dimensions_cm.width }}</p>
+            <p>Height: {{ inventory.specifications.dimensions_cm.height }}</p>
 
-          <div class="card-body">Category: {{ inventory.category }} <br /></div>
+            <p>Materials: {{ inventory.materials }}</p>
+          </div>
 
-          <div class="card-body">Quantity in Stock: {{ inventory.quantity_in_stock }} <br /></div>
+          <div class="card-footer">Restock History</div>
 
-          <div class="card-body">Reorder Level: {{ inventory.reorder_level }} <br /></div>
-
-          <div class="card-body">Supplier ID: {{ inventory.supplier_id }} <br /></div>
-
-          <div class="card-body">Unit Price: {{ inventory.unit_price }} <br /></div>
-
-          <div class="card-body">Last Updated: {{ inventory.last_updated }} <br /></div>
-
-          <div class="card-body">Specifications:<br /></div>
-
-          <div class="card-body">   lenght: {{ inventory.specifications.dimensions_cm.length}} <br/></div>
-
-          <div class="card-footer">   width: {{ inventory.specifications.dimensions_cm.width}} <br /></div>
-
-          <div class="card-footer">   height: {{ inventory.specifications.dimensions_cm.height }} <br /></div>
-
-          <div class="card-footer">materials: {{ inventory.materials }} <br /></div>
-
-          <div class="card-footer">Restock History:</div> <br>
+          <hr />
         </div>
       }
     </div>

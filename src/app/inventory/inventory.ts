@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 import { InventoryData } from '../inventory-data';
+import { RouterLink } from '@angular/router';
+
 
 @Component({
   selector: 'app-inventory',
   providers: [InventoryData],
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './inventory.html',
   styleUrl: './inventory.css',
 })
